@@ -1,12 +1,12 @@
-ipywidgets
-notebook
-ensure
-py-youtube
+ipywidgets==8.0.3
+notebook==6.5.2
+ensure==1.0.2
+py-youtube==1.1.7
 
 # dev requirements
-pytest
-tox
-black
-flake8
-mypy
+pytest==7.2.0
+tox==4.0.7
+black==22.12.0
+flake8==6.0.0
+mypy==0.991
 -e .
